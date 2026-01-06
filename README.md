@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi! I’m Umar Malik 👋
 
-<!--
-**umarmalikhj/umarmalikhj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m on a journey to become a Full-Stack Developer. I love building things that actually work, solving problems, and learning by doing.
 
-Here are some ideas to get you started:
+🔭 Currently working on:
+- Dev-ious Portfolio Website
+- Mini JS Projects (CRUD apps, DOM manipulations, small games)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Learning:
+- Backend Development: Node.js, Express, Django
+- Databases: MySQL, MongoDB
+- Deployment: AWS, Vercel, Netlify
+
+💬 Let’s connect, share ideas, and build cool projects together!
