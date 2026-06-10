@@ -1,16 +1,35 @@
-Hi! I’m Umar Malik 👋
+# Umar Malik
+
+I'm a developer focused on creating practical projects and continuously improving my skills in full-stack development, UI/UX design, and problem-solving.
+
+Currently building projects that help me move from learning concepts to shipping real products.
+
+## 📈 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=umarmalikhj&theme=dark&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
-I’m on a journey to become a Full-Stack Developer. I love building things that actually work, solving problems, and learning by doing.
+## Current Focus
 
-🔭 Currently working on:
-- Dev-ious Portfolio Website
-- Mini JS Projects (CRUD apps, DOM manipulations, small games)
+- Dev-ious — Personal Developer Portfolio
+- Full-Stack Web Development
+- JavaScript Project Development
+- UI/UX Design Fundamentals
 
-🌱 Learning:
+## 🛠 Tech Stack
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React
+
+### Learning:
 - Backend Development: Node.js, Express, Django
 - Databases: MySQL, MongoDB
 - Deployment: AWS, Vercel, Netlify
 
-💬 Let’s connect, share ideas, and build cool projects together!
+### Tools
+- Git
+- GitHub
+- VS Code
+- Figma
